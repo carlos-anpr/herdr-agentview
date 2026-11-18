@@ -8,7 +8,7 @@
 [![ratatui](https://img.shields.io/badge/ratatui-TUI-7c3aed?style=flat-square)](https://ratatui.rs)
 [![herdr](https://img.shields.io/badge/herdr-plugin-0ea5e9?style=flat-square)](https://herdr.dev)
 [![LLM](https://img.shields.io/badge/IA-cualquier_proveedor_OpenAI--compatible-412991?style=flat-square)](docs/ia.md)
-[![License](https://img.shields.io/badge/License-MIT-339933?style=flat-square)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT_·_open_source-339933?style=flat-square)](LICENSE)
 
 **Centro de control para varios agentes de código (Claude Code, Codex, OpenCode, omp…) corriendo en paneles de [herdr](https://herdr.dev). Un popup que se abre sobre el panel activo.**
 
@@ -68,4 +68,4 @@ Plantilla en [`.env.example`](.env.example); detalle en [docs/ia.md](docs/ia.md)
 
 ## 📄 Licencia
 
-MIT
+[MIT](LICENSE) · software libre y de código abierto.
